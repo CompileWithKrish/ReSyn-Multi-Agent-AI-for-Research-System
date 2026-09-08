@@ -102,8 +102,7 @@ The pipeline ([run_research_pipeline](file:///home/krishna/internship%20projects
    ```
 
 4. **Configure Environment Variables**:
-   Create a [.env](file:///home/krishna/internship%20projects/Multi-agent-research-system/.env) file in the root directory (based on [.env.example](file:///home/krishna/internship%20projects/Multi-agent-research-system/.env.example)):
-   ```env
+ 
    TAVILY_API_KEY=your_tavily_api_key_here
 
    # Azure OpenAI Configuration
