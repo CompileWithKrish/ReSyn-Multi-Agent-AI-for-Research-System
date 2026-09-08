@@ -1,0 +1,46 @@
+# Core LLM + LangChain ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-groq
+
+# OpenAI
+openai
+langchain-openai
+
+# Tavily Search Tool
+tavily-python
+
+# Web scraping
+beautifulsoup4
+requests
+lxml
+
+# Environment variables
+python-dotenv
+
+# Async support (important for agents/tools)
+aiohttp
+
+# Data handling (optional but useful in pipelines)
+pandas
+
+# Token counting / text utils
+tiktoken
+
+# Logging / debugging (optional but recommended)
+rich
+
+# Retry + robustness
+tenacity
+
+# JSON handling improvements
+orjson
+
+# Typing support (helps in bigger projects)
+pydantic
+
+# Optional (for advanced parsing / HTML cleanup)
+html5lib
+
+streamlit
